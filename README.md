@@ -28,7 +28,7 @@ https://github.com/dreis0121/deacademydbt.git
 https://github.com/dreis0121/DataEngineering/blob/cc7d260eaf75ba688590e9c6adbc87a54a11eff8/ETL%20SCD1%20using%20Snowflake%20Tasks.docx
 
 #### Project Code
-Snowflake Code/SCD-1 with Stream and Task.sql
+Snowflake Code/ETL SCD1 with AWS S3, Tasks, Streams and Stored Procedures.sql
 
 
 
