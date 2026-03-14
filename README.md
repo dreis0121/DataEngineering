@@ -14,3 +14,7 @@ https://github.com/dreis0121/DataEngineering/blob/90b67575a319ce3e905b404bef5aae
 ### <ins> DBT GLUE PROJECT </ins>
 
 #### Project Documentation
+https://github.com/dreis0121/DataEngineering/blob/ae7e2990ab5d7f32aed6aa6f8194016c70e13ed3/DBT%20Glue%20Project.docx
+
+#### Project Code
+
