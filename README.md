@@ -25,6 +25,10 @@ https://github.com/dreis0121/deacademydbt.git
 ### <ins> ETL SCD-1 Using Snowflake Tasks, Streams and Stored Procedures </ins> ###
 
 #### Project Documentation ####
+https://github.com/dreis0121/DataEngineering/blob/cc7d260eaf75ba688590e9c6adbc87a54a11eff8/ETL%20SCD1%20using%20Snowflake%20Tasks.docx
+
+#### Project Code
+
 
 
 
